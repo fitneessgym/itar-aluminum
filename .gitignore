@@ -1,0 +1,12 @@
+node_modules/
+.vercel/
+.output/
+dist/
+*.log
+.DS_Store
+artifacts/
+screenshots/*.png
+screenshots/*.json
+
+.vercel
+.env*
